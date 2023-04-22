@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/university/static/css/main.1257384d.css",
+    "main.js": "/university/static/js/main.76655ce0.js",
+    "index.html": "/university/index.html",
+    "main.1257384d.css.map": "/university/static/css/main.1257384d.css.map",
+    "main.76655ce0.js.map": "/university/static/js/main.76655ce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1257384d.css",
+    "static/js/main.76655ce0.js"
+  ]
+}
